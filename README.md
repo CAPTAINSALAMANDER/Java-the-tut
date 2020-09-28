@@ -1,2 +1,2 @@
 # Java-the-tut
-<h2>My take on java</h2>
+<h4>These are just my practices in java for my convience but feel free to look around...</h4>
